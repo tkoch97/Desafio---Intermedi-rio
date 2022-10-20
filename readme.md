@@ -2,7 +2,7 @@
 
 Desafio 2 (intermediário - Semântica e acessibilidade.) stage 2. 
 
-[🔗 Clique aqui para acessar](https://tkoch97.github.io/)
+[🔗 Clique aqui para acessar](https://tkoch97.github.io/Desafio-intermediario/)
 
 ## 🔧 Tecnologias
 
